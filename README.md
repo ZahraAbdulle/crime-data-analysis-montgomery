@@ -15,7 +15,6 @@ This project analyzes crime data from Montgomery County (2018-2022) using Python
 
 ## Repository Contents
 - **finalised questions with graphs 10.11 (1).ipynb**: Main notebook with structured EDA and visualizations.
-- **Coursework_1_ADP (2).ipynb**: Additional analysis and preprocessing steps.
 - Datasets: Any associated data used in the project.
 
 ## Contributors
