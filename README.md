@@ -2,7 +2,7 @@
 # Crime Data Analysis - Montgomery County (2018-2022)
 
 ## Overview
-This project analyzes crime data from Montgomery County (2018-2022) using Python for data preprocessing, exploratory data analysis (EDA), and visualization.
+This project analyzes crime data from Montgomery County using Python for data preprocessing, exploratory data analysis (EDA), and visualization.
 
 ## Features
 - Data cleaning and preprocessing
